@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\SkellyCombatBehavior.js">
+    <Files>
+      <File FileName="Assets\_Scripts\champion movement rigidbody.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\twin stick movement.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Chase.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\SkellyCombatBehavior.js" Line="21" Column="1" />
+      <File FileName="Assets\_Scripts\ChampionMechanics.js" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\ShieldMechanics.js" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets\_Scripts\dummymage_AI.js" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
